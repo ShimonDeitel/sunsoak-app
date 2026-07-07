@@ -1,0 +1,27 @@
+{
+  "identifier" : "Sunsoak",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "1.99",
+      "familyShareable" : false,
+      "internalID" : "SUNSOAK_PRO",
+      "localizations" : [
+        {
+          "description" : "Weekly Rhythm Chart",
+          "displayName" : "Sunsoak Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.shimondeitel.sunlightlog.pro",
+      "referenceName" : "Sunsoak Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {},
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
